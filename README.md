@@ -77,7 +77,7 @@ I focus on **real-world projects** that reflect how products are built in teams:
 
 <div align="center">
 
-![Profile Views](https://visitcount.itsvg.in/api?id=sakib404-hub&icon=5&color=6)
+![Profile Views](https://komarev.com/ghpvc/?username=sakib404-hub&label=Profile%20views&color=0e75b6&style=flat)
 
 </div>
 
