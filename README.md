@@ -93,18 +93,27 @@ I enjoy learning fast, collaborating, and turning ideas into reliable features.
 ### 🏗️ Featured Repositories
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%" align="center" valign="top">
-        <a href="https://github.com/sakib404-hub/style-decor-client-site">
-          <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=shehabRabby&repo=StyleDecore&theme=radical&bg_color=00000000&title_color=38BDF8&text_color=9CA3AF&hide_border=false" alt="StyleDecore" />
-        </a>
-        <p align="center">
-          <i>MERN stack courier platform for book lovers.</i>
-        </p>
-      </td>
-    </tr>
-  </table>
+<table border="0">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/sakib404-hub/NEW-REPO-NAME">
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=sakib404-hub&repo=NEW-REPO-NAME&theme=radical&bg_color=00000000&title_color=38BDF8&text_color=9CA3AF&hide_border=false" alt="NEW-REPO-NAME" />
+      </a>
+      <p align="center">
+        <i>Short description of this project goes here.</i>
+      </p>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/sakib404-hub/ANOTHER-REPO-NAME">
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=sakib404-hub&repo=ANOTHER-REPO-NAME&theme=radical&bg_color=00000000&title_color=38BDF8&text_color=9CA3AF&hide_border=false" alt="ANOTHER-REPO-NAME" />
+      </a>
+      <p align="center">
+        <i>Short description of another project goes here.</i>
+      </p>
+    </td>
+  </tr>
+</table>
+
 </div>
 
 ---
