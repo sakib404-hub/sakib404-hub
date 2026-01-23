@@ -1,83 +1,127 @@
-<img width="1280" height="611" alt="modern (1)" src="https://github.com/user-attachments/assets/471dcfa3-ecbb-45f0-8056-88bcb9660933" />
+<img width="100%" alt="Banner" src="https://github.com/user-attachments/assets/471dcfa3-ecbb-45f0-8056-88bcb9660933" />
 
-## 👋 Hi, I'm **Shakib Hossen**
+# 👋 Hi, I'm **Shakib Hossen**
+
 🎓 Computer Science Student at **Daffodil International University**  
-💼 **Front-End Developer (React)** | Open to **Internship / Junior Roles**
+💼 **Front-End Developer (React)** | Open to **Internship / Junior Roles**  
 
-I build **production-ready, responsive web applications** with a strong focus on **clean code, performance, and user experience**. I enjoy collaborating, learning quickly, and turning requirements into reliable features.
-
----
-
-## 🎯 What I Can Contribute
-- Develop **scalable React applications** with clean, maintainable architecture  
-- Build **responsive UI** using modern CSS frameworks  
-- Implement **state management, API integration, and authentication**  
-- Create smooth **UI & text animations** to enhance user experience  
-- Write readable, well-structured code following best practices  
+I build **production-ready, responsive web applications** with a strong focus on  
+**clean code, performance, and user experience**.  
+I enjoy learning fast, collaborating, and turning ideas into reliable features.
 
 ---
 
-## 🛠️ Core Skills
+## 🚀 Quick Overview
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
-
----
-
-### Backend & Data (Working Knowledge)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase)
-
----
-
-### Tools & Workflow
-- Git & GitHub (branching, PRs, clean commits)  
-- Vite, NPM  
-- Netlify & Vercel  
-- Figma (UI collaboration)  
+<table align="center" width="100%" border="0">
+  <tr>
+    <td width="55%" valign="top">
+      <ul>
+        <li>🔭 <b>Focus:</b> Real-world React applications</li>
+        <li>🌱 <b>Learning:</b> Advanced React, modern frontend workflows</li>
+        <li>⚡ <b>Goal:</b> Becoming an industry-ready frontend engineer</li>
+      </ul>
+    </td>
+    <td width="45%" valign="top">
+      <img 
+        src="https://github-readme-stats.vercel.app/api?username=sakib404-hub&show_icons=true&theme=tokyonight&hide_border=true"
+        width="100%"
+        alt="GitHub Stats"
+      />
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📌 Projects & Experience
-I focus on **real-world projects** that reflect how products are built in teams:
+---
 
-- Component-based architecture  
-- Reusable UI components  
-- REST API integration  
-- Authentication & role-based access  
-- Clean folder structure and readable code  
+### 🛠️ Professional Tech Stack
 
-➡️ **Pinned repositories below showcase my best work.**
+<div align="center">
+  <img 
+    src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,js,nodejs,express,mongodb,firebase,git,github,vscode,postman,figma&perline=8"
+    alt="Shakib Hossen Tech Stack"
+  />
+</div>
+
+---
+
+## 🧰 Tools & Workflow
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vite,npm,netlify,vercel,figma&perline=7" />
+</div>
+
+<p align="center">
+  Branching · Pull Requests · Clean Commits · CI-friendly workflow
+</p>
 
 ---
 
 ## 📊 GitHub Activity
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sakib404-hub&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=sakib404-hub&theme=tokyonight&hide_border=true" width="48%" />
-
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=sakib404-hub&show_icons=true&theme=tokyonight&hide_border=true"
+    width="32%"
+  />
+  <img 
+    src="https://nirzak-streak-stats.vercel.app/?user=sakib404-hub&theme=tokyonight&hide_border=true"
+    width="32%"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakib404-hub&layout=compact&theme=tokyonight&hide_border=true"
+    width="32%"
+  />
 </div>
 
 ---
 
-## 📫 Let’s Connect
-- 📧 Email: **akibhossainsakib1040@gmail.com**
-- 💼 Open to **internship & junior developer opportunities**
-- 🌱 Always learning and improving
+## 📈 GitHub Contributions
 
 <div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=sakib404-hub&label=Profile%20views&color=0e75b6&style=flat)
-
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=sakib404-hub&bg_color=00000000&color=38BDF8&line=38BDF8&point=FFFFFF&area=true&hide_border=true" 
+    width="100%" 
+    alt="Activity Graph" 
+  />
 </div>
 
+---
+
+### 🏗️ Featured Repositories
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%" align="center" valign="top">
+        <a href="https://github.com/shehabRabby/Book_Courier_Client">
+          <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=shehabRabby&repo=Book_Courier_Client&theme=radical&bg_color=00000000&title_color=38BDF8&text_color=9CA3AF&hide_border=false" alt="Book Courier Client" />
+        </a>
+        <p align="center">
+          <i>MERN stack courier platform for book lovers.</i>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 🤝 Connect & Collaborate
+
+<div align="center"> 
+  <a href="https://wa.me/8801234567890" target="_blank"> 
+    <img src="https://img.icons8.com/ios-filled/50/25D366/whatsapp.png" alt="WhatsApp"/> 
+  </a> &nbsp;&nbsp; 
+  <a href="https://t.me/sakib404" target="_blank"> 
+    <img src="https://img.icons8.com/ios-filled/50/0088cc/telegram-app.png" alt="Telegram"/> 
+  </a> &nbsp;&nbsp; 
+  <a href="https://www.facebook.com/your-profile" target="_blank"> 
+    <img src="https://img.icons8.com/ios-filled/50/1877F2/facebook-new.png" alt="Facebook"/> 
+  </a> &nbsp;&nbsp; 
+  <a href="https://www.linkedin.com/in/your-profile" target="_blank"> 
+    <img src="https://img.icons8.com/ios-filled/50/0A66C2/linkedin.png" alt="LinkedIn"/> 
+  </a> 
+</div>
