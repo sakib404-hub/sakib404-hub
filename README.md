@@ -1,4 +1,5 @@
-<img width="100%" alt="Banner" src="https://github.com/user-attachments/assets/471dcfa3-ecbb-45f0-8056-88bcb9660933" />
+<img width="1280" height="720" alt="modern (2)" src="https://github.com/user-attachments/assets/e376947c-584b-4f17-8d90-8d3d96e91dc9" />
+
 
 # 👋 Hi, I'm **Shakib Hossen**
 
